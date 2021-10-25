@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/advog8pfmln71fr9?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-test-ci-matchers)
+[![Build status](https://ci.appveyor.com/api/projects/status/b7xerwwoij82vjn7?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-test-ci-matchers)
